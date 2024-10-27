@@ -7,7 +7,7 @@ name,Blood Bag
 craftman, Vita/yuyudev
 craftmanw, Vita/yuyudev
 craftmanurl, https://thatoddhaystack.neocities.org/ukagaka/
-homeurl,https://raw.githubusercontent.com/yuyudev-thatoddhaystack/bloodbag_yy/refs/heads/main/
+homeurl,https://raw.githubusercontent.com/yuyudev-thatoddhaystack/bloodbag_yy/main/
 
 sakura.bindoption0.group,Variety,mustselect
 sakura.bindgroup0.name,Variety,Human Red
