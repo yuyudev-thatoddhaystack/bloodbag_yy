@@ -1,0 +1,5 @@
+Charset,UTF-8
+type,shell
+name,Blood Bag
+directory,bloodbag_yy
+accept,Hydrate

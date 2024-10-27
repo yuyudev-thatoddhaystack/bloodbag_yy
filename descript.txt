@@ -1,0 +1,22 @@
+seriko.alignmenttodesktop,top
+seriko.use_self_alpha,1
+
+charset,UTF-8
+type,shell
+name,Blood Bag
+craftman, Vita/yuyudev
+craftmanw, Vita/yuyudev
+craftmanurl, https://thatoddhaystack.neocities.org/ukagaka/
+homeurl,/
+
+sakura.bindoption0.group,Variety,mustselect
+sakura.bindgroup0.name,Variety,Human Red
+sakura.bindgroup0.default,1
+sakura.bindgroup1.name,Variety,Alien Blue
+sakura.bindgroup2.name,Variety,Slime Green
+sakura.bindgroup3.name,Variety,Ink Black
+sakura.bindgroup4.name,Variety,Glitter Gold
+sakura.bindgroup5.name,Variety,Spotted Orange
+sakura.bindgroup6.name,Variety,Cyber Magenta
+sakura.bindgroup7.name,Variety,Hydrate Clear
+sakura.bindgroup8.name,Variety,Galaxy Purple
